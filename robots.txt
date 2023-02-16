@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nasl.github.io/pirmas-cementinis/sitemap.xml
